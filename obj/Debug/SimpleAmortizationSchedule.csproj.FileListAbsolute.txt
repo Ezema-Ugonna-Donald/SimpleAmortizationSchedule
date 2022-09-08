@@ -6,3 +6,11 @@ C:\Users\Donald Ezema\Documents\deus\work\personal\dotnettutorial\SimpleAmortiza
 C:\Users\Donald Ezema\Documents\deus\work\personal\dotnettutorial\SimpleAmortizationSchedule\obj\Debug\SimpleAmortizationSchedule.csproj.CoreCompileInputs.cache
 C:\Users\Donald Ezema\Documents\deus\work\personal\dotnettutorial\SimpleAmortizationSchedule\obj\Debug\SimpleAmortizationSchedule.exe
 C:\Users\Donald Ezema\Documents\deus\work\personal\dotnettutorial\SimpleAmortizationSchedule\obj\Debug\SimpleAmortizationSchedule.pdb
+C:\Users\Donald Ezema\source\repos\SimpleAmortizationSchedule\bin\Debug\SimpleAmortizationSchedule.exe.config
+C:\Users\Donald Ezema\source\repos\SimpleAmortizationSchedule\bin\Debug\SimpleAmortizationSchedule.exe
+C:\Users\Donald Ezema\source\repos\SimpleAmortizationSchedule\bin\Debug\SimpleAmortizationSchedule.pdb
+C:\Users\Donald Ezema\source\repos\SimpleAmortizationSchedule\obj\Debug\SimpleAmortizationSchedule.csproj.AssemblyReference.cache
+C:\Users\Donald Ezema\source\repos\SimpleAmortizationSchedule\obj\Debug\SimpleAmortizationSchedule.csproj.SuggestedBindingRedirects.cache
+C:\Users\Donald Ezema\source\repos\SimpleAmortizationSchedule\obj\Debug\SimpleAmortizationSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Donald Ezema\source\repos\SimpleAmortizationSchedule\obj\Debug\SimpleAmortizationSchedule.exe
+C:\Users\Donald Ezema\source\repos\SimpleAmortizationSchedule\obj\Debug\SimpleAmortizationSchedule.pdb

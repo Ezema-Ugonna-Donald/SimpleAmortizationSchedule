@@ -39,14 +39,14 @@ namespace SimpleAmortizationSchedule
             Console.WriteLine($"S/N\tInstallment\tPrincipal Payment\tInterest Payment\tInterest Accrued\tPrincipal Balance");
             
 
-            while (count < amortPeriod)
+            while (count <= amortPeriod)
             {
                 Console.WriteLine($"{count}\t{mortgagePayment.ToString ("0.00")}\t{principalPayment.ToString("0.00")}\t{interestPayment.ToString("0.00")}\t{interestAccrued.ToString("0.00")}\t{principalBalance.ToString("0.00")}");
 
-                principalBalance -= mortgagePayment;
-                interestPayment = -principalBalance * (decimal)(monthlyRate / 100);
+                interestPayment = principalBalance * (decimal)(monthlyRate / 100);
                 interestAccrued += interestPayment;
                 principalPayment = mortgagePayment - interestPayment;
+                principalBalance -= principalPayment;
                 
 
                 count++;
